@@ -1,0 +1,10 @@
+{
+  "name": "Company Name",
+  "reg_no": "Registration No",
+  "status": "Status",
+  "address": "Address",
+  "postcode": "Postcode",
+  "state": "State",
+  "phone": "Telephone",
+  "website": "Website"
+}

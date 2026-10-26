@@ -1,0 +1,13 @@
+gers_id,name,phone,address,postcode,region,category,website,lat,lon,brand,brand_wikidata,socials
+o1,Restoran Sedap,+603-1234 5678,12 Jln Ampang,50450,Kuala Lumpur,restaurant,https://restoransedap.com.my,3.16,101.70,Restoran Sedap,,https://facebook.com/restoransedap
+o2,ABC Trading,,5 Jalan Perak,50450,Kuala Lumpur,wholesaler,,3.15,101.69,,,
+o3,XYZ Plumbing,03-7777 6666,9 Jalan Industri,40150,Penang,plumber,,3.10,101.65,,,
+o4,Kedai Bunga Mawar,03-2222 3333,88 Jalan Bunga,50450,Kuala Lumpur,florist,,3.14,101.68,Kedai Bunga Mawar,,https://instagram.com/kedaibungamawar
+o5,Restoran Sedap,03-1234 5678,12 Jalan Ampang,50450,Kuala Lumpur,restaurant,https://restoransedap.com.my,3.16,101.70,Restoran Sedap,,https://facebook.com/restoransedap
+o6,Tech Solutions,03-5555 6666,10 Jalan Teknologi,40150,Shah Alam,it_services,https://techsolutions.my,3.11,101.55,Tech Solutions,,https://linkedin.com/company/techsolutions
+o7,Nasi Lemak Pak Ali,,3 Jalan Makan,50450,Kuala Lumpur,restaurant,,3.16,101.71,Nasi Lemak Pak Ali,,https://facebook.com/nasilemakpakali
+o8,Salon Cantik,03-8888 9999,20 Jalan Kecantikan,50450,Kuala Lumpur,beauty_salon,,3.17,101.72,Salon Cantik,,https://instagram.com/saloncantik
+o9,Unknown Cafe,,99 Jalan Entah,50450,Kuala Lumpur,cafe,,3.18,101.73,,,
+o10,Tech Solutions Penang,03-5555 7777,25 Jalan Teknologi,11900,Penang,it_services,https://techsolutions.my,5.33,100.30,Tech Solutions,,https://linkedin.com/company/techsolutions
+o11,Nasi Lemak Pak Ali Bangsar,,3 Jalan Makan,59100,Kuala Lumpur,restaurant,,3.13,101.67,Nasi Lemak Pak Ali,,https://facebook.com/nasilemakpakali
+o12,Salon Cantik PJ,03-8888 7777,8 Jalan Cantik,47800,Selangor,beauty_salon,,3.10,101.62,Salon Cantik,,https://instagram.com/saloncantik
